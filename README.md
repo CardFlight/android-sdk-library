@@ -12,6 +12,11 @@ Documentation for our Android SDK can be found on cardflight.com, or by clicking
 
 ## Change Log
 
+#### v3.2.2
+* Improve reader connection times
+* Fix A100 reader connection problems
+* Bug fixes
+
 #### v3.2
 * Add callback to receive more information about a card before charging
 * Add method to charge a vaulted card
