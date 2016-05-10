@@ -6,7 +6,7 @@
     android:layout_width="wrap_content"
     android:layout_height="@dimen/text_field_height"
     android:layout_centerVertical="true"
-    android:layout_marginLeft="10dp"
+    android:layout_marginLeft="20dp"
     android:layout_toRightOf="@+id/card_icon"
     android:contentDescription="@string/credit_card_number_field_description" />
     
@@ -35,12 +35,11 @@
         android:layout_width="wrap_content"
         android:layout_height="@dimen/text_field_height"
         android:layout_gravity="center"
-        android:layout_marginLeft="@dimen/standard_padding"
         android:hint="@string/expiration_field_hint"
         android:imeOptions="actionNext"
         android:inputType="number"
         android:maxLength="5"
-        android:color="@color/cardflight_dark_gray" />
+        android:color="@color/cardflight_grey" />
         
         <com.getcardflight.views.CVVEditText
         android:id="@+id/security_code"
@@ -48,13 +47,13 @@
         android:layout_width="wrap_content"
         android:layout_height="@dimen/text_field_height"
         android:layout_gravity="center"
-        android:layout_marginLeft="@dimen/standard_padding"
-        android:layout_marginRight="@dimen/standard_padding"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="15dp"
         android:hint="@string/_cvv_"
         android:inputType="number"
         android:maxLength="3"
         android:nextFocusRight="@null"
-        android:color="@color/cardflight_dark_gray" />
+        android:color="@color/cardflight_grey" />
         
         <com.getcardflight.views.ZipCodeEditText
         android:id="@+id/zip_code"
@@ -65,12 +64,13 @@
         android:layout_gravity="center"
         android:contentDescription="Zip Code Field"
         android:hint="@string/zip_code"
+        android:inputType="textPostalAddress"
         android:imeOptions="actionDone"
-        android:maxLength="10"
         android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890 "
+        android:maxLength="10"
         android:nextFocusRight="@null"
         android:textSize="@dimen/checkout_input_field_text_size"
-        android:color="@color/cardflight_dark_gray" />
+        android:color="@color/cardflight_grey" />
         
     </LinearLayout>
     

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<color name="cardflight_dark_blue">#02274C</color>
+	<color name="cardflight_medium_blue">#064582</color>
+	<color name="cardflight_blue">#1371CF</color>
+	<color name="cardflight_grey">#3D3F40</color>
+	<color name="cardflight_white">#F3F3F3</color>
+	<color name="cardflight_orange">#F68C2D</color>
+	<color name="cardflight_green">#BBF62D</color>
+
+</resources>
