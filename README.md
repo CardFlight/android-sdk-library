@@ -12,6 +12,9 @@ Documentation for our Android SDK can be found on cardflight.com, or by clicking
 
 ## Change Log
 
+#### v3.2.6
+* Bug fixes
+
 #### v3.2.5
 * Bug fixes
 
