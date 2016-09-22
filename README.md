@@ -12,6 +12,18 @@ Documentation for our Android SDK can be found on cardflight.com, or by clicking
 
 ## Change Log
 
+#### v3.5.1
+* Bug fixes
+
+#### v3.5
+* Added new Bluetooth Readers
+* More reliable network calls
+* Added vaulting during an EMV transaction
+* Bug fixes
+
+#### v3.2.7
+* Bug fixes
+
 #### v3.2.6
 * Bug fixes
 
