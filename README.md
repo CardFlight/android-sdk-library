@@ -12,6 +12,12 @@ Documentation for our Android SDK can be found on cardflight.com, or by clicking
 
 ## Change Log
 
+#### v3.5.5
+* Bug fixes
+
+#### v3.5.4
+* Bug fixes
+
 #### v3.5.3
 * Bug fixes
 
@@ -90,19 +96,19 @@ Documentation for our Android SDK can be found on cardflight.com, or by clicking
 #### v2.24
 
 * New RestartReader API to restart reader while it connected.
-* Fix crash when performing swipe related operations on reader which lost connection. DeviceDisconnected callback would be called on that occasion. 
+* Fix crash when performing swipe related operations on reader which lost connection. DeviceDisconnected callback would be called on that occasion.
 * Fix bug in auto config process.
 * Improve stability of Payment View
 
 #### v2.23
 * Better Walker reader swipe detection.
- 
+
 #### v2.21
 * Update more devices with the Walker reader.
- 
+
 #### v2.20
 * Update more devices with the Walker reader.
-* Improved messages. 
+* Improved messages.
 
 #### v2.18
 * Fix bug with failty swipe which causes another swipe attemp instead of failing.
@@ -169,4 +175,3 @@ Our SDK supports a wide array of Android platforms. Click [here](https://develop
 ##Looking for iOS?
 
 We've got you covered. Click [here](https://github.com/CardFlight/cardflight-ios) to learn more about our CardFlight iOS SDK.
-
