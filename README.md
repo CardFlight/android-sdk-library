@@ -167,11 +167,11 @@ CardFlight.getInstance()
 The CardFlight SDK is broken into easy-to-manage components. You just include the ones that you want to use in the header files of the classes that need to access those components.
 
 
-##Supported Platforms
+## Supported Platforms
 
 Our SDK supports a wide array of Android platforms. Click [here](https://developers.cardflight.com/docs/android) to view an updated list.
 
 
-##Looking for iOS?
+## Looking for iOS?
 
 We've got you covered. Click [here](https://github.com/CardFlight/cardflight-ios) to learn more about our CardFlight iOS SDK.
