@@ -1,3 +1,9 @@
+# Deprecated Repo
+
+This repo has been deprecated and is no longer being maintained or updated.
+
+CardFlight v3 can now be found [here](https://github.com/CardFlight/cardflight-v3-android)
+
 # CardFlight's Android SDK Library
 
 ## Introduction
